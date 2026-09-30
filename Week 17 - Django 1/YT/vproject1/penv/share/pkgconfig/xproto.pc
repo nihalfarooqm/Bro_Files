@@ -1,0 +1,8 @@
+prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 17 - Django 1/YT/vproject1/penv
+includedir=${prefix}/include
+includex11dir=${prefix}/include/X11
+ 
+Name: Xproto
+Description: Xproto headers
+Version: 7.0.33
+Cflags: -I${includedir}

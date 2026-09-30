@@ -1,0 +1,7 @@
+prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 18 - Django 2/full_system_build/fs_penv
+includedir=${prefix}/include
+ 
+Name: DMXProto
+Description: DMX extension headers
+Version: 2.3.1
+Cflags: -I${includedir}

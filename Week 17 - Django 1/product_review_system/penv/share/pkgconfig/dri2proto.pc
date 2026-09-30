@@ -1,0 +1,7 @@
+prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 17 - Django 1/product_review_system/penv
+includedir=${prefix}/include
+ 
+Name: DRI2Proto
+Description: DRI2 extension headers
+Version: 2.8
+Cflags: -I${includedir}

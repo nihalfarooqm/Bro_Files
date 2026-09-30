@@ -1,0 +1,31 @@
+<!-- home.html -->
+{% extends "base.html" %}
+
+{% block title %}
+Home Page
+{% endblock %}
+
+{% block content %}
+<h2>Welcome to Home Page</h2>
+<!-- <h1>Welcome to Django</h1>
+<p>This is a template page</p> -->
+<!-- <h1>I'm {{ name }}</h1>
+<p>and {{ age }} years old</p> -->
+
+<ul>
+{% for name, age in people %}
+    <li>{{name|upper}} is {{age}} years old
+        {% if age > 23 %}
+        , he is very old
+        {% elif age > 21 %}
+        , he is old
+        {% else %}
+        , he is young
+        {% endif %}</li>
+{% endfor %}
+</ul>
+
+<a href="{% url 'about' %}">Go to About Page</a>
+<a href="{% url 'store:home' %}">Go to About Page</a>
+
+{% endblock %}

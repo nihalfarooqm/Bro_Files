@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 17 - Django 1/review/penv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.51.2
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lm -lz -ldl -lpthread 
+Cflags: -I${includedir}

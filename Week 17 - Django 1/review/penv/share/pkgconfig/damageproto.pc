@@ -1,0 +1,7 @@
+prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 17 - Django 1/review/penv
+includedir=${prefix}/include
+
+Name: DamageProto
+Description: Damage extension headers
+Version: 1.2.1
+Cflags: -I${includedir}

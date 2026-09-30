@@ -1,0 +1,51 @@
+order_id,customer_id,city,order_date,category,product,quantity,price,payment_mode
+1001,279,Mumbai,2023-01-01,Clothing,Novel,3,34524,Debit Card
+1002,262,Bangalore,2023-01-16,Clothing,Mobile,2,21079,Cash
+1003,233,Bangalore,2023-01-31,Clothing,Shirt,1,40163,Credit Card
+1004,228,Delhi,2023-02-15,Home,Headphones,4,3359,Debit Card
+1005,274,Chennai,2023-03-02,Clothing,Novel,10,33804,UPI
+1006,245,Kochi,2023-03-17,Home,Shirt,9,609,UPI
+1007,273,Mumbai,2023-04-01,Electronics,Table,4,23361,Cash
+1008,230,Mumbai,2023-04-16,Home,Headphones,10,43779,Debit Card
+1009,220,Mumbai,2023-05-01,Books,Mixer,1,39307,UPI
+1010,281,Bangalore,2023-05-16,Electronics,Mixer,8,12323,Debit Card
+1011,286,Mumbai,2023-05-31,Clothing,Shirt,6,35938,Debit Card
+1012,279,Chennai,2023-06-15,Electronics,Shirt,10,21254,UPI
+1013,201,Mumbai,2023-06-30,Home,Mobile,1,16337,Cash
+1014,212,Kochi,2023-07-15,Books,Shirt,5,6673,Debit Card
+1015,270,Kochi,2023-07-30,Clothing,Mobile,2,49603,UPI
+1016,205,Chennai,2023-08-14,Books,Shirt,3,40585,Cash
+1017,285,Mumbai,2023-08-29,Books,Headphones,10,23828,Credit Card
+1018,297,Bangalore,2023-09-13,Home,Headphones,2,33064,Debit Card
+1019,214,Delhi,2023-09-28,Books,Shirt,7,5128,Credit Card
+1020,276,Chennai,2023-10-13,Clothing,Headphones,3,27834,Debit Card
+1021,293,Kochi,2023-10-28,Books,Headphones,3,18382,Cash
+1022,219,Delhi,2023-11-12,Clothing,Shirt,2,1090,UPI
+1023,267,Chennai,2023-11-27,Books,Novel,10,35908,Credit Card
+1024,237,Chennai,2023-12-12,Books,Mixer,6,47641,Credit Card
+1025,261,Mumbai,2023-12-27,Home,Mobile,9,3780,Credit Card
+1026,225,Kochi,2024-01-11,Clothing,Novel,2,46329,UPI
+1027,247,Mumbai,2024-01-26,Books,Shirt,4,30386,UPI
+1028,293,Mumbai,2024-02-10,Clothing,Table,8,42540,Credit Card
+1029,250,Bangalore,2024-02-25,Books,Laptop,2,11025,UPI
+1030,205,Kochi,2024-03-11,Books,Table,10,44127,Credit Card
+1031,296,Bangalore,2024-03-26,Electronics,Table,5,2037,Debit Card
+1032,296,Kochi,2024-04-10,Home,Shirt,5,14268,Debit Card
+1033,213,Chennai,2024-04-25,Electronics,Mobile,1,33124,Credit Card
+1034,275,Delhi,2024-05-10,Home,Mobile,4,29016,Debit Card
+1035,267,Bangalore,2024-05-25,Electronics,Novel,4,11726,Credit Card
+1036,263,Chennai,2024-06-09,Electronics,Table,1,34508,Credit Card
+1037,277,Delhi,2024-06-24,Electronics,Mobile,3,1862,UPI
+1038,278,Delhi,2024-07-09,Home,Mobile,4,2049,Cash
+1039,250,Mumbai,2024-07-24,Home,Headphones,5,1643,UPI
+1040,200,Kochi,2024-08-08,Home,Laptop,4,48747,Debit Card
+1041,212,Delhi,2024-08-23,Home,Mixer,3,40906,UPI
+1042,255,Kochi,2024-09-07,Electronics,Headphones,1,37942,Credit Card
+1043,248,Delhi,2024-09-22,Electronics,Shirt,1,36733,UPI
+1044,259,Bangalore,2024-10-07,Clothing,Shirt,10,26836,Credit Card
+1045,290,Delhi,2024-10-22,Books,Laptop,7,15468,Credit Card
+1046,279,Bangalore,2024-11-06,Clothing,Mixer,10,29187,Cash
+1047,274,Bangalore,2024-11-21,Clothing,Novel,10,8856,Cash
+1048,267,Chennai,2024-12-06,Home,Mixer,7,45762,UPI
+1049,223,Mumbai,2024-12-21,Clothing,Mobile,10,47720,Cash
+1050,263,Mumbai,2025-01-05,Books,Table,1,40152,Credit Card

@@ -1,0 +1,13 @@
+<h2>Update Task</h2>
+
+<form method="POST">
+    {% csrf_token %}
+
+    {{ form }}
+
+    <br></br>
+
+    <button type="submit">Update</button>
+</form>
+
+<a href="{% url 'tasks:home' %}">Back</a>

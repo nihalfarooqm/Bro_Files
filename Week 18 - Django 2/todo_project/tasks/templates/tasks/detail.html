@@ -1,0 +1,13 @@
+<h2>Task Detail</h2>
+
+<p>{{ task.title }}</p>
+
+<p>
+    Completed:
+    {{ task.completed }}
+</p>
+
+<p>{{ task.user }}
+    {{ task.user.password }}</p>
+
+<a href="{% url 'tasks:home' %}">Back</a>

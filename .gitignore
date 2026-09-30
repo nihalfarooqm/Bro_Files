@@ -1,0 +1,21 @@
+# Virtual Environments (The main cause of 100k+ files)
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# IDEs and OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large ML data or models if they exceed 50MB (Optional but safe)
+# *.csv
+# *.json
+# *.pkl
+# *.h5

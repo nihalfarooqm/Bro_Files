@@ -1,0 +1,3 @@
+Hai.	Happy 
+ Newline	2nd file
+ Hello
