@@ -1,8 +1,0 @@
-prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 18 - Django 2/todo_project/penv
-exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
-
-Name: pthread stubs
-Description: Stubs missing from libc for standard pthread functions
-Version: 0.3
-Libs: 

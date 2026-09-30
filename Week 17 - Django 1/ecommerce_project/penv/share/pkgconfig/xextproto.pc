@@ -1,7 +1,0 @@
-prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 17 - Django 1/ecommerce_project/penv
-includedir=${prefix}/include
- 
-Name: XExtProto
-Description: XExt extension headers
-Version: 7.3.0
-Cflags: -I${includedir}

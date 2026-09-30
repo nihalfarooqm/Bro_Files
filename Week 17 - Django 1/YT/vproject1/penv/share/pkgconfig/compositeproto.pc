@@ -1,7 +1,0 @@
-prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 17 - Django 1/YT/vproject1/penv
-includedir=${prefix}/include
-
-Name: CompositeExt
-Description: Composite extension headers
-Version: 0.4.2
-Cflags: -I${includedir}

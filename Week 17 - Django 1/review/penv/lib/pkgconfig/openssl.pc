@@ -1,9 +1,0 @@
-prefix=/home/nihal_farooq_m/Studies/Bro_Files/Week 17 - Django 1/review/penv
-exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
-includedir=${prefix}/include 
-
-Name: OpenSSL
-Description: Secure Sockets Layer and cryptography libraries and tools
-Version: 3.5.5
-Requires: libssl libcrypto
