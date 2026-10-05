@@ -20,3 +20,11 @@ Thumbs.db
 # *.json
 # *.pkl
 # *.h5
+
+# Block AWS runtime credentials and installations
+aws/
+.aws/
+credentials
+*.zip
+awscliv2.zip
+.env
