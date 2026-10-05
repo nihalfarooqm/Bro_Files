@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - "S1 P4 M2 | Containerization & Cloud for ML/Docker/ml-deployment/**"
-      - ".github/workflows/deploy.yml"
+      - ".github/workflows/deploy-p4-m2-ml-deployment-aws.yml"
 
 env:
   AWS_REGION: ${{ vars.AWS_REGION }}
