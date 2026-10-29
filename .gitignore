@@ -28,3 +28,8 @@ credentials
 *.zip
 awscliv2.zip
 .env
+
+# Model datasets
+dataset/
+**/dataset/
+*.jpg
